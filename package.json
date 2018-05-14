@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vlaraort/html-import-js"
+  },
+  "author": "Víctor Lara",
   "license": "ISC"
 }
